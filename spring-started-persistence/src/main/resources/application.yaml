@@ -1,6 +1,6 @@
 spring.datasource:
   driverClassName: com.mysql.cj.jdbc.Driver
-  url: jdbc:mysql://localhost:3306/ci_cadreon_optimization?useUnicode=true&characterEncoding=UTF-8&rewriteBatchedStatements=true&serverTimezone=UTC&useLegacyDatetimeCode=false
+  url: jdbc:mysql://localhost:3306/spring_started
   username: root
   password: developer
   dialect: org.hibernate.dialect.MySQL5Dialect
